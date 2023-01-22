@@ -283,7 +283,10 @@
   background-color: rgba(37,36,32,0.5);
 
 }
-
+.bek1{
+  padding: 0;
+  list-style: none;
+}
 .bek{
   list-style: none;
 }
