@@ -19,12 +19,8 @@
 }
 
 
-.logo{
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 38px;
-  color:  #252420;
+.logo-link img{
+  display: block;
 }
 .site-header-actions{
   display: flex;
@@ -306,16 +302,21 @@ margin-bottom: 24px;
   margin-right: 0;
 }
 .site-footer-socials a{
+  display: block;
   color: #252420;
 }
 
 .site-footer-socials a:hover{
   color: #FF7500;
 }
+.site-footer-socials svg{
+  display: block;
+}
 
 .site-footer-socials a:active{
   opacity: 0.6;
 }
+
 
 .footer-img{
   width: 24px;
